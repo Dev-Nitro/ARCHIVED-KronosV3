@@ -1,0 +1,14 @@
+{
+  "content": "||@here||",
+  "embeds": [
+    {
+      "title": "Update v1.04.3",
+      "description": "-Fixed a bug from v1.04.2 update",
+      "color": 9371903,
+      "footer": {
+        "text": "Open the Bootstrapper to get the latest update"
+      }
+    }
+  ],
+  "attachments": []
+}
