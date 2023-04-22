@@ -2,15 +2,15 @@
 
 <SyntaxDefinition name="Lua" extensions=".lua" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
   <Color name="Comment" foreground="#ff999999" exampleText="-- comment" />
-  <Color name="String" foreground="#F2DC63" />
-  <Color name="Punctuation" foreground="#DA577C" />
-  <Color name="MethodCall" foreground="#76CE89" fontWeight="bold" />
-  <Color name="NumberLiteral" foreground="#948AE3" />
+  <Color name="String" foreground="#FDE98B" />
+  <Color name="Punctuation" foreground="#62aace" />
+  <Color name="MethodCall" foreground="#ff96e0" fontWeight="bold" />
+  <Color name="NumberLiteral" foreground="#8094b0" />
   <Color name="NilKeyword" fontWeight="bold" />
-  <Color name="Keywords" fontWeight="bold" foreground="#DA577C" />
+  <Color name="Keywords" fontWeight="bold" foreground="#C679FF" />
   <Color name="GotoKeywords" foreground="#F45F89" />
   <Color name="Visibility" fontWeight="bold" foreground="#FC618D" />
-  <Color name="TrueFalse" fontWeight="bold" foreground="#9086DC" />
+  <Color name="TrueFalse" fontWeight="bold" foreground="#64bd79" />
 
   <RuleSet name="CommentMarkerSet">
     <Keywords fontWeight="bold" foreground="#fff2777a">
