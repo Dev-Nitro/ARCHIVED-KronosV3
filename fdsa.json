@@ -2,11 +2,11 @@
   "content": "||@everyone||",
   "embeds": [
     {
-      "title": "Update v1.04.3",
-      "description": "-Fixed a bug from v1.04.2 update",
+      "title": "Update v4.08.3",
+      "description": "-Kronos V4 UI Released, Supporting 98% UNC",
       "color": 9371903,
       "footer": {
-        "text": "Open the Bootstrapper to get the latest update"
+        "text": "Open The Installer To Get The Latest Version"
       }
     }
   ],
